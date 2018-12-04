@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d674d3d-6151-4921-9539-e622e3144638" name="Default" comment="" />
+    <list default="true" id="1d674d3d-6151-4921-9539-e622e3144638" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/11周note/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/11周note/笔记" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/IO多路复用/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/IO多路复用/select_socket_sever.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/IO多路复用/socket_client.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/chat_program/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/chat_program/chat_clent.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/chat_program/chat_sever.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/chat_program/user_data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/第九周 多进程、携程/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/第九周 多进程、携程/多进程/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/第九周 多进程、携程/多进程/get_pid.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/第九周 多进程、携程/多进程/process_manager.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/第九周 多进程、携程/多进程/process_pipe.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/第九周 多进程、携程/多进程/process_poos.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/第九周 多进程、携程/多进程/process_queue.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/第九周 多进程、携程/多进程/多进程.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/第九周 多进程、携程/携程/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/第九周 多进程、携程/携程/gevent_socket.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/第九周 多进程、携程/携程/greenlet多携程.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/第九周 多进程、携程/携程/yield生产者和消费者模型.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/第九周 多进程、携程/携程/携程爬虫.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/第九周 多进程、携程/携程/自动io切换.py" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,28 +36,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="select_socket_sever.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IO多路复用/select_socket_sever.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="22" />
-              <folding>
-                <element signature="e#50#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="socket_client.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IO多路复用/socket_client.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="mutlti conn socket client.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/mutlti conn socket client.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -45,16 +48,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chat_program/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -63,6 +56,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -93,7 +89,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1065" />
     <option name="width" value="863" />
     <option name="height" value="1038" />
@@ -114,6 +110,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -291,14 +288,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21300212" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47540984" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -351,9 +348,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="22" />
-          <folding>
-            <element signature="e#50#63#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -672,9 +667,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="22" />
-          <folding>
-            <element signature="e#50#63#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
