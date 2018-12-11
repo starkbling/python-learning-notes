@@ -17,7 +17,8 @@ channel.queue_declare(queue='hello',durable=True)  #再声明一个队列,由于
 
 def callback(ch, method, properties, body):  #回调函数，消息来了就调用该函数
     """:param ch 管道的内存对象地址
-    :param method 消息传递的相关参数，定义消息的内容
+    :param method 消息传递的相关参数，定义消息的内容，在脚本运行的后面传入的参数，能够定义用什么方式处理消息
+    具体的用法可见后面的fanout、direct和topic等消息处理
     :param properties
     """
     print("-->:",ch)
